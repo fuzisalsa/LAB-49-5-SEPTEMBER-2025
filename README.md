@@ -102,5 +102,51 @@ dan sudah bisa mengakses ke internet
 ![](a9.PNG)
 
 ![](a10.png)
-    
-Simple Bandwidth Control for 1 User in MikroTik
+
+**3. Firewall mangle, QuEue tree, HTB, dan Advanced addresslist**    
+Saya akan melakukan Simple Bandwidth Control for 1 User di MikroTik  
+
+    a. masuk winbok
+    b. pilih menu ip > firewall > address list untuk memasukan ip client 
+
+![](B2.PNG)
+  
+    c. pilih menu ip > firewall > mangle untuk menandai koneksi upload & download serta menandai paket upload & download
+
+**menandai koneksi**    
+*upload*
+
+ ![](B3.1.PNG)
+
+ ![](B3.2.PNG)
+
+ ![](B3.3.PNG)
+
+ *download*
+
+ ![](B3.1.PNG)
+
+ ![](B4.1.PNG)
+ 
+ ![](B4.2.PNG)
+
+ **menandai paket**    
+ *upload*
+
+ ![](B5.1.PNG)
+
+ ![](B5.2.PNG)
+ 
+ *download*
+
+ ![](B5.1.PNG)
+
+ ![](B5.2.PNG)
+
+    d. pilih menu ip > queues > queue tree untuk Membatasi dan mengatur bandwidth (upload dan download) secara terpisah dan spesifik untuk client. Trafik dibagi antara parent dan child
+
+ ![](B8.PNG)
+
+    e. pengujian, bisa di lihat di sini saya menggunakan speedtest
+
+ ![](B1.PNG)
