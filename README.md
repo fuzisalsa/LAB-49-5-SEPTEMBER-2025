@@ -33,7 +33,7 @@ disini saya akan mlakukan konfigurasi agar client hanya bisa mengakses situs ter
 
 ![](c2.PNG)
 
-![](c3.PNG)
+![](C3.PNG)
 
 *drop*
 
