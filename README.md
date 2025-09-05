@@ -16,4 +16,5 @@
 tentang: Advance DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan addresslist.
 
 **1. Firewall filter**
-disini saya akan mempraktekkan cara mem blok client agar tida bisa mengakses mikrotik.
+disini saya akan mlakukan konfigurasi agar client hanya bisa meng akses situs tertentu
+
