@@ -1,13 +1,14 @@
 # LAB-49-5-SEPTEMBER-2025
 
 **berikut beberapa video yang bersangkutan dengan Vidio yang akan di buat**
-1. GAPTEK AMATIR-Cara Membatasi Bandwith Internet Di Jaringan Mikrotik || How to manage mikrotik bandwidth   
+1. GAPTEK AMATIR: Cara Membatasi Bandwith Internet Di Jaringan Mikrotik || How to manage mikrotik bandwidth   
    https://youtu.be/Eq55upUAJdo?si=VaajGSBBxYcOJz_E
-2. terasyahdu IT partner-Blok media sosial atau membatasi akses website dengan mikrotik   
+2. terasyahdu IT partner: Blok media sosial atau membatasi akses website dengan mikrotik   
    https://youtu.be/YoasEqujUhM?si=5AkElW2B6st5PAmq
-3. Mansyahnih-Tutorial membatasi Bandwidth dan memblokir situs   
+3. Mansyahnih: Tutorial membatasi Bandwidth dan memblokir situs   
    https://youtu.be/_pT4qXrS1PM?si=bxcmnWdRTiFsUtun
-5. https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
+5. Mikrotik Indonesia - Citraweb: Manajemen Bandwidth Jaringan Sekolah Paling Mudah - MIKROTIK TUTORIAL [ENG SUB]  
+   https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
 6. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
 7. https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
 8. https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
