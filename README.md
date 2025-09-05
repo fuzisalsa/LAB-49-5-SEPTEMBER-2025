@@ -54,4 +54,43 @@ action *drop=di bloklangsung*
 
 *ternyata bisa berarti konfigurasi yang telah kita lakukan tadi berhasil*
 
-**2.**
+**2. Advanced DHCP**
+di sini saya akan melakukan konfigurasi agar client dapat mengakses internet dan memiliki ip address secara dynamic dari server.  
+
+    a. sambungkan mikrotik ke laptop lalu colokkan kabel isp ke mikrotik atau bisa juga konekkan hospot ke mikrotik. 
+    b. masuk winbox
+    c. pilih menu ip > DHCP Client
+    d. klik (+) dibagian interfaces saya di sini internet nya menggunakan hospot maka saya memilih wlan1 klik apply dan ok. lihat hingga ip address wlan1 ini muncul agar bisa tau konek atau tidak klo sudah muncul berarti sudah konek.
+
+![](a1.PNG)
+    
+    e. lalu pilih menu ip > address untuk menambahkan ip address untuk client
+    f. klik (+) masukan ip address, interface nya pilih interface yang kabelnya menuju client/pc. di sini saya menggunakan interface ether2
+    
+![](a2.PNG)     
+    
+    g. lalu pilih ip > firewall > nat, untuk mengubah ip private menjadi ip public dengan menggunakan action masquerade dengan out-interface yaitu wlan1 karena dari beliau lah sumber internetnya.
+    
+![](a3.PNG)     
+
+![](a4.PNG)
+
+    h. lalu tambahkan dns 8.8.8.8 di menu ip > dns 
+    
+![](a5.PNG)
+ 
+    i. terakhir pilih menu ip > DHCP server > DHCP setup untuk memberikan ip address secara otomatis kepada client
+
+![](a6.PNG)
+
+*next next hingga selesai*
+
+    j. cek dan pengujian 
+
+![](a7.PNG)
+
+bisa dilihat sekarang client sudah mendapatkan ip 
+
+![](a8.PNG)
+
+dan sudah bisa mengakses ke internet
