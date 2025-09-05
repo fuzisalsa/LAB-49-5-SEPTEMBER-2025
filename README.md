@@ -150,3 +150,6 @@ Saya akan melakukan Simple Bandwidth Control for 1 User di MikroTik
     e. pengujian, bisa di lihat di sini saya menggunakan speedtest
 
  ![](B1.PNG)
+
+ # SEKIAN DAN TERIMAKASIH 
+ 
