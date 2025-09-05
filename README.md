@@ -8,9 +8,12 @@
 5. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
 6. https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
 7. https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
+8. https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
+9. https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
+10. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
 # konfigurasi
 tentang: Advance DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan addresslist.
 
 **1. Firewall filter**
-disini saya akan mempraktekkan cara mem blok client agar tida bisa mengakses mikrotik 
+disini saya akan mempraktekkan cara mem blok client agar tida bisa mengakses mikrotik.
