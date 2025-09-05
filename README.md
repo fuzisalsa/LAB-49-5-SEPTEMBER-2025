@@ -1,8 +1,10 @@
 # LAB-49-5-SEPTEMBER-2025
 
 **berikut beberapa video yang bersangkutan dengan Vidio yang akan di buat**
-1. https://youtu.be/Eq55upUAJdo?si=VaajGSBBxYcOJz_E
-2. https://youtu.be/YoasEqujUhM?si=5AkElW2B6st5PAmq
+1. GAPTEK AMATIR-Cara Membatasi Bandwith Internet Di Jaringan Mikrotik || How to manage mikrotik bandwidth   
+   https://youtu.be/Eq55upUAJdo?si=VaajGSBBxYcOJz_E
+2. Putra Pratama 
+Penerapan Bandwidth Burst atau Bandwidth Up To pada MiKROTIK https://youtu.be/YoasEqujUhM?si=5AkElW2B6st5PAmq
 3. https://youtu.be/_pT4qXrS1PM?si=bxcmnWdRTiFsUtun
 4. https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
 5. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
