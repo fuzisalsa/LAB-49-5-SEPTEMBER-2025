@@ -27,7 +27,8 @@ disini saya akan mlakukan konfigurasi agar client hanya bisa mengakses situs ter
 
     e. lalu pilih tab firewall filter untuk melakukan blokir website yang tidak termasuk ke dftar addresslist dan memasukan addreslist website yang bole di akses tadi. disini web tadi menggunakan protocol tcp dan port http 80 serta https 443
 
-*accept=di perbolehkan*
+chain *forward=paket data yang melewati router*
+action *accept=di perbolehkan*
 
 ![](c1.PNG)
 
@@ -35,7 +36,7 @@ disini saya akan mlakukan konfigurasi agar client hanya bisa mengakses situs ter
 
 ![](C3.PNG)
 
-*drop=di bloklangsung*
+action *drop=di bloklangsung*
 
 ![](d1.PNG)
 
