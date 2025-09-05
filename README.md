@@ -89,7 +89,7 @@ di sini saya akan melakukan konfigurasi agar client dapat mengakses internet dan
 
 ![](a7.PNG)
 
-bisa dilihat sekarang client sudah mendapatkan ip 
+bisa dilihat sekarang client sudah mendapatkan ip   
 
 ![](a8.PNG)
 
