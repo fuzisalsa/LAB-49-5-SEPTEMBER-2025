@@ -97,6 +97,7 @@ dan sudah bisa mengakses ke internet
 
     k. Static Lease – Kunci IP untuk laptop
        pilih menu ip > dhcp server > lease 
+       tambahkan mac address laptop dan ip laptop
 
 ![](a9.PNG)
 
