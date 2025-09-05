@@ -13,7 +13,7 @@
 10. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
 # konfigurasi
-tentang: Advance DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan addresslist.
+tentang: Advanced DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan Advanced addresslist.
 
 **1. Firewall filter**   
 disini saya akan mlakukan konfigurasi agar client hanya bisa mengakses situs tertentu        
