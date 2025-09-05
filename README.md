@@ -9,7 +9,8 @@
    https://youtu.be/_pT4qXrS1PM?si=bxcmnWdRTiFsUtun
 5. Mikrotik Indonesia - Citraweb: Manajemen Bandwidth Jaringan Sekolah Paling Mudah - MIKROTIK TUTORIAL [ENG SUB]  
    https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
-6. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
+6. Padepokan IT Course: Cara Blok Akses Internet hanya Bisa Buka Website Tertentu saja dengan Mikrotik    
+   https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
 7. https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
 8. https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
 9. https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
