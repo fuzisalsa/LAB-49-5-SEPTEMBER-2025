@@ -3,16 +3,16 @@
 **berikut beberapa video yang bersangkutan dengan Vidio yang akan di buat**
 1. GAPTEK AMATIR-Cara Membatasi Bandwith Internet Di Jaringan Mikrotik || How to manage mikrotik bandwidth   
    https://youtu.be/Eq55upUAJdo?si=VaajGSBBxYcOJz_E
-2. Putra Pratama 
-Penerapan Bandwidth Burst atau Bandwidth Up To pada MiKROTIK https://youtu.be/YoasEqujUhM?si=5AkElW2B6st5PAmq
+2. terasyahdu IT partner-Blok media sosial atau membatasi akses website dengan mikrotik   
+   https://youtu.be/YoasEqujUhM?si=5AkElW2B6st5PAmq
 3. https://youtu.be/_pT4qXrS1PM?si=bxcmnWdRTiFsUtun
-4. https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
-5. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
-6. https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
-7. https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
-8. https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
-9. https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
-10. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
+5. https://youtu.be/zdEQa6Cc4mI?si=uIyCmNNZrsGxfi1k
+6. https://youtu.be/wTnkFQqAZpg?si=o2ed5CZsL-lMp-r5
+7. https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
+8. https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
+9. https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
+10. https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
+11. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
 # konfigurasi
 tentang: Advanced DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan Advanced addresslist.
