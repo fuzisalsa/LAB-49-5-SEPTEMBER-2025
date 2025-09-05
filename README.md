@@ -19,7 +19,8 @@
    https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
 10. Mikrotik Indonesia - Citraweb: BLOCK GAME ONLINE - MIKROTIK TUTORIAL [ENG SUB]    
     https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
-11. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
+11. GAPTEK AMATIR: Cara Blokir Situs Medsos Di Jam Yang Ditentukan || Mikrotik Time Management    
+    https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
 # konfigurasi
 tentang: Advanced DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan Advanced addresslist.
