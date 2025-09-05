@@ -15,6 +15,42 @@
 # konfigurasi
 tentang: Advance DHCP, Firewall filter, Firewall mangle, Qudue tree, HTB, dan addresslist.
 
-**1. Firewall filter**
-disini saya akan mlakukan konfigurasi agar client hanya bisa meng akses situs tertentu
+**1. Firewall filter**   
+disini saya akan mlakukan konfigurasi agar client hanya bisa mengakses situs tertentu        
 
+    a. buka winbox    
+    b. lakukan konfigurasi dasar hingga terhubung ke internet   
+    c. pilih menu ip > firewall 
+    d. nah pertama kita akan memasukan website apa saja yang bole di akses ke addresslist di tab addresslist
+
+![](wwww.PNG)
+
+    e. lalu pilih tab firewall filter untuk melakukan blokir website yang tidak termasuk ke dftar addresslist dan memasukan addreslist website yang bole di akses tadi
+
+*accept*
+
+![](c1.PNG)
+
+![](c2.PNG)
+
+![](c3.PNG)
+
+*drop*
+
+![](d1.PNG)
+
+![](d2.PNG)
+
+    f. pengujian, di sini saya akan mencoba membuka tik tok
+
+![](ttk.PNG)
+
+*ternyata tidak bisa karena tiktok termasuk ke web yang tidak di izin kan dan akhirnya di drop di firewall filter*
+
+    g. dan saya akan mencoba mengakses web web yang di perbolehkan tadi apa kah bisa atau malah di tidak? mari kita lihat
+
+![](bisa.PNG)
+
+*ternyata bisa berarti konfigurasi yang telah kita lakukan tadi berhasil*
+
+**2.**
