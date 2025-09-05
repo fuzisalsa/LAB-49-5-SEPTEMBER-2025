@@ -94,3 +94,11 @@ bisa dilihat sekarang client sudah mendapatkan ip
 ![](a8.PNG)
 
 dan sudah bisa mengakses ke internet
+
+    k. Static Lease – Kunci IP untuk laptop
+       pilih menu ip > dhcp server > lease 
+
+![](a9.PNG)
+
+![](a10.PNG)
+    
