@@ -100,5 +100,5 @@ dan sudah bisa mengakses ke internet
 
 ![](a9.PNG)
 
-![](a10.PNG)
+![](a10.png)
     
