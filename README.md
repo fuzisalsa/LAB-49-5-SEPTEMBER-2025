@@ -17,7 +17,8 @@
    https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
 9. Wawan Aris Prasetyo: Penjadwalan / Time Schedule Dengan MikroTik   
    https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
-10. https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
+10. Mikrotik Indonesia - Citraweb: BLOCK GAME ONLINE - MIKROTIK TUTORIAL [ENG SUB]    
+    https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
 11. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
 # konfigurasi
