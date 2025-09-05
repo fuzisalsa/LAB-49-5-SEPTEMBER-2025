@@ -139,9 +139,9 @@ Saya akan melakukan Simple Bandwidth Control for 1 User di MikroTik
  
  *download*
 
- ![](B5.1.PNG)
+ ![](B6.1.PNG)
 
- ![](B5.2.PNG)
+ ![](B6.2.PNG)
 
     d. pilih menu ip > queues > queue tree untuk Membatasi dan mengatur bandwidth (upload dan download) secara terpisah dan spesifik untuk client. Trafik dibagi antara parent dan child
 
