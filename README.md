@@ -46,7 +46,7 @@ action *drop=di bloklangsung*
 
 ![](ttk.PNG)
 
-*ternyata tidak bisa karena tiktok termasuk ke web yang tidak di izin kan dan akhirnya di drop di firewall filter*
+*ternyata tidak bisa karena tiktok termasuk ke web yang tidak di izin kan dan akhirnya di drop/blokir di firewall filter*
 
     g. dan saya akan mencoba mengakses web web yang di perbolehkan tadi apa kah bisa atau malah di tidak? mari kita lihat
 
