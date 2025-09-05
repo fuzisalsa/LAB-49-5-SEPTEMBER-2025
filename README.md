@@ -15,7 +15,8 @@
    https://youtu.be/-308OOgvROY?si=Z-ph3wqvLy_NDVCO
 8. IT Newbie: Blokir Akses Internet pada Jam Tertentu di Mikrotik    
    https://youtu.be/vH8iQSsjNgk?si=HHzogQt_9qytkbo7
-9. https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
+9. Wawan Aris Prasetyo: Penjadwalan / Time Schedule Dengan MikroTik   
+   https://youtu.be/QOiwfWnnYG4?si=glBlPIxCMTihsHB9
 10. https://youtu.be/0H7sruQJJJ0?si=ceBaCcDrZi6Q3FSI
 11. https://youtu.be/gQ7woFTu4zI?si=Knc3ObTIaTeM09VK
 
