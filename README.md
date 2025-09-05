@@ -103,3 +103,4 @@ dan sudah bisa mengakses ke internet
 
 ![](a10.png)
     
+Simple Bandwidth Control for 1 User in MikroTik
