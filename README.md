@@ -54,7 +54,7 @@ action *drop=di bloklangsung*
 
 *ternyata bisa berarti konfigurasi yang telah kita lakukan tadi berhasil*
 
-**2. Advanced DHCP**
+**2. Advanced DHCP**    
 di sini saya akan melakukan konfigurasi agar client dapat mengakses internet dan memiliki ip address secara dynamic dari server.  
 
     a. sambungkan mikrotik ke laptop lalu colokkan kabel isp ke mikrotik atau bisa juga konekkan hospot ke mikrotik. 
